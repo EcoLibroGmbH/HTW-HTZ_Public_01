@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "EPkwLadestationen_7",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "Ladestation": " ", "Anbieter": "ChargeIT Mobility", "Ladepunkte": "(3x) 22 kW - Typ 2", "Zugangszeiten": "Rund um die Uhr", "Art": null }, "geometry": { "type": "Point", "coordinates": [ 6.938801159591049, 49.245051448531179 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "Ladestation": " ", "Anbieter": "Energie SaarLorLux", "Ladepunkte": "(2x) 11 kW - Typ 2", "Zugangszeiten": "Rund um die Uhr", "Art": null }, "geometry": { "type": "Point", "coordinates": [ 6.938649927210893, 49.245488650935663 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "Ladestation": " ", "Anbieter": "HTW Saar", "Ladepunkte": "(2x) AC-Ladepunkt", "Zugangszeiten": null, "Art": "Dienstfahrzeuge HTW Saar" }, "geometry": { "type": "Point", "coordinates": [ 6.936169188358603, 49.245586019306636 ] } }
+]
+}

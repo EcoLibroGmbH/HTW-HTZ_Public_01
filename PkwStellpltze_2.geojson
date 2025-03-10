@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "PkwStellpltze_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 21, "Stelle": 40, "Art": null, "Pkw-Parkplatz": " " }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.936283636603583, 49.24558548502025 ], [ 6.936262777249908, 49.24588877992408 ], [ 6.93582473082275, 49.245878876446426 ], [ 6.935839901261786, 49.245578057366572 ], [ 6.936283636603583, 49.24558548502025 ] ] ] } },
+{ "type": "Feature", "properties": { "fid": 22, "Stelle": 136, "Art": null, "Pkw-Parkplatz": " " }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.937134233664482, 49.245463387759386 ], [ 6.937150933086421, 49.245123269106607 ], [ 6.938532434182099, 49.245149171583584 ], [ 6.938514482255681, 49.245488650935663 ], [ 6.937134233664482, 49.245463387759386 ] ] ] } }
+]
+}
